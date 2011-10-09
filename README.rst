@@ -69,8 +69,9 @@ Mac OS/X snow leopard
 debian
 -------
 
-You can obtain the required programs on debian by typing this:
-sudo aptitude install pcsc-tools python-pyscard libccid
+You can obtain the required programs on debian by typing this::
+
+  sudo aptitude install pcsc-tools python-pyscard libccid
 
 the latest version of scriptim can be found at
 https://github.com/bernardpaulus/scriptim
@@ -155,9 +156,9 @@ Known problems
 On debian, sometimes pcsc will cause syslog to print a small message.
 tail /var/log/syslog
 
-shows messages like:
+shows messages like::
 
-pcscd: pcscdaemon.c:663:clean_temp_files() Cannot remove ...
+  pcscd: pcscdaemon.c:663:clean_temp_files() Cannot remove ...
 
 This is due to a bug of pcsc_lite that has been fixed in the svn, but not yet
 packaged.

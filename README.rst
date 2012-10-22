@@ -6,7 +6,7 @@ About
 is a python clone of scriptor, a console to interact with smartcard readers.
 
 latest version and additionnal info can be found at:
-http://github.com/bernardpaulus/scriptim
+https://github.com/joefebrian/smartcard
 
 ::
 

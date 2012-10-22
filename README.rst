@@ -10,7 +10,7 @@ http://github.com/bernardpaulus/scriptim
 
 ::
 
-  #    Copyright 2011 Bernard Paulus <bprecyclebin@gmail.com>
+  #    Copyright 2012 Joe Febrian <joe@cybersama.co.id>
   #
   #    This file is part of scriptim
   #
